@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1150" viewBox="0 0 1600 1150"><rect width="1600" height="1150" fill="#090e14"/>
+<rect x="20" y="20" width="1560" height="1110" fill="none" stroke="#40505b" stroke-width="1.7"/>
+<text x="50" y="65" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="30">次卧 · 飘窗边床与一体书桌</text>
+<text x="50" y="99" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="18">方案 B-01 / 黑底二维概念图 · 基于 GitHub 原户型 · 单位 mm</text>
+<line x1="40" y1="120" x2="1560" y2="120" stroke="#40505b" stroke-width="1.5" />
+<line x1="680" y1="140" x2="680" y2="945" stroke="#40505b" stroke-width="1.5" />
+<text x="50" y="157" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="23">01  平面布置</text>
+<text x="50" y="187" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="17">上方走道入门，下方飘窗；不改变原有墙体。</text>
+<line x1="140" y1="280" x2="140" y2="768" stroke="#cb8fc8" stroke-width="1.5" />
+<line x1="132" y1="280" x2="132" y2="768" stroke="#cb8fc8" stroke-width="1.5" />
+<line x1="276" y1="280" x2="540" y2="280" stroke="#cb8fc8" stroke-width="1.5" />
+<line x1="276" y1="272" x2="548" y2="272" stroke="#cb8fc8" stroke-width="1.5" />
+<line x1="540" y1="280" x2="540" y2="768" stroke="#cb8fc8" stroke-width="1.5" />
+<line x1="548" y1="272" x2="548" y2="768" stroke="#cb8fc8" stroke-width="1.5" />
+<line x1="140" y1="768" x2="540" y2="768" stroke="#86bb92" stroke-width="1.5" />
+<rect x="140" y="768" width="400" height="64" fill="none" stroke="#86bb92" stroke-width="1.7"/>
+<text x="235" y="806" fill="#86bb92" font-family="Noto Sans CJK SC,sans-serif" font-size="17">原飘窗 · 深度待量</text>
+<line x1="140" y1="280" x2="140" y2="408" stroke="#dbe5eb" stroke-width="1.5" stroke-dasharray="7 5"/>
+<path d="M 268 280 A 128 128 0 0 1 140 408" fill="none" stroke="#dbe5eb" stroke-dasharray="5 5"/>
+<text x="145" y="260" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="16">门洞及开启范围待复核</text>
+<rect x="332" y="280" width="208" height="96" fill="none" stroke="#ddbd77" stroke-width="1.7"/>
+<line x1="436" y1="280" x2="436" y2="376" stroke="#ddbd77" stroke-width="1.5" />
+<text x="346.4" y="315.2" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="16">衣柜 1300×600</text>
+<text x="362.4" y="348.8" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="16">拟用移门</text>
+<rect x="460" y="376" width="80" height="144" fill="none" stroke="#57dadd" stroke-width="1.7"/>
+<text x="464.8" y="436.8" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="17">书桌</text>
+<text x="462.40000000000003" y="462.4" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">900</text>
+<rect x="460" y="520" width="80" height="48" fill="none" stroke="#ddbd77" stroke-width="1.7"/>
+<text x="464" y="550.4" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="14">床头柜</text>
+<rect x="380" y="419.20000000000005" width="67.2" height="67.2" fill="none" stroke="#dbe5eb" stroke-width="1.7"/>
+<text x="384.8" y="460.8" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="16">座椅</text>
+<rect x="220" y="568" width="320" height="192" fill="none" stroke="#dbe5eb" stroke-width="1.7"/>
+<rect x="501.6" y="572" width="34.4" height="184" fill="none" stroke="#ddbd77" stroke-width="1.7"/>
+<rect x="463.2" y="588.8" width="35.2" height="64" fill="none" stroke="#dbe5eb" stroke-width="1.7"/>
+<rect x="463.2" y="675.2" width="35.2" height="64" fill="none" stroke="#dbe5eb" stroke-width="1.7"/>
+<line x1="236" y1="577.6" x2="236" y2="750.4000000000001" stroke="#dbe5eb" stroke-width="1.5" />
+<text x="253.60000000000002" y="646.4000000000001" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="21">床外包控制</text>
+<text x="253.60000000000002" y="678.4000000000001" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="19">2000 × 1200［拟］</text>
+<text x="484" y="721.6" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="14">床头 →</text>
+<line x1="140" y1="225" x2="540" y2="225" stroke="#57dadd" stroke-width="1.5" />
+<line x1="136" y1="230" x2="144" y2="220" stroke="#57dadd" stroke-width="1.5" />
+<line x1="536" y1="230" x2="544" y2="220" stroke="#57dadd" stroke-width="1.5" />
+<text x="312" y="216" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">2500［原］</text>
+<line x1="140" y1="664" x2="220" y2="664" stroke="#57dadd" stroke-width="1.5" />
+<line x1="136" y1="669" x2="144" y2="659" stroke="#57dadd" stroke-width="1.5" />
+<line x1="216" y1="669" x2="224" y2="659" stroke="#57dadd" stroke-width="1.5" />
+<text x="168" y="655" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">500</text>
+<line x1="590" y1="280" x2="590" y2="768" stroke="#57dadd" stroke-width="1.5" />
+<text x="600" y="535" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="17">3050</text>
+<text x="600" y="560" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="17">［原］</text>
+<text x="50" y="880" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="17">床靠飘窗侧，暂留50缝隙；不把飘窗计入床长。</text>
+<text x="50" y="910" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="17">床尾约500通道偏窄；床架加厚会进一步压缩。</text>
+<text x="720" y="157" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="23">02  右墙展开 · 面向书桌</text>
+<text x="720" y="188" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="17">从左到右：衣柜侧板 → 书桌 → 床头柜 → 床头</text>
+<rect x="740" y="224" width="144" height="576" fill="none" stroke="#ddbd77" stroke-width="1.7"/>
+<text x="765" y="400" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="19">衣柜</text>
+<text x="765" y="430" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="19">侧面</text>
+<rect x="884" y="620" width="216" height="8" fill="none" stroke="#57dadd" stroke-width="1.7"/>
+<line x1="884" y1="620" x2="884" y2="800" stroke="#57dadd" stroke-width="1.5" />
+<line x1="1100" y1="620" x2="1100" y2="800" stroke="#57dadd" stroke-width="1.5" />
+<rect x="1100" y="684.8" width="72" height="115.19999999999999" fill="none" stroke="#ddbd77" stroke-width="1.7"/>
+<line x1="1100" y1="742.4" x2="1172" y2="742.4" stroke="#ddbd77" stroke-width="1.5" />
+<rect x="1172" y="560" width="288" height="240" fill="none" stroke="#ddbd77" stroke-width="1.7"/>
+<line x1="1172" y1="684.8" x2="1460" y2="684.8" stroke="#dbe5eb" stroke-width="1.5" />
+<text x="929" y="602" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="17">桌面 H750</text>
+<text x="1092" y="666.8" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="16">H480</text>
+<text x="1252" y="608" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="19">床头软包</text>
+<text x="912" y="755" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="17">桌下留空</text>
+<line x1="730" y1="800" x2="1480" y2="800" stroke="#dbe5eb" stroke-width="1.5" />
+<line x1="740" y1="835" x2="884" y2="835" stroke="#57dadd" stroke-width="1.5" />
+<line x1="736" y1="840" x2="744" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<line x1="880" y1="840" x2="888" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<text x="800" y="826" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">600</text>
+<line x1="884" y1="835" x2="1100" y2="835" stroke="#57dadd" stroke-width="1.5" />
+<line x1="880" y1="840" x2="888" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<line x1="1096" y1="840" x2="1104" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<text x="980" y="826" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">900</text>
+<line x1="1100" y1="835" x2="1172" y2="835" stroke="#57dadd" stroke-width="1.5" />
+<line x1="1096" y1="840" x2="1104" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<line x1="1168" y1="840" x2="1176" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<text x="1124" y="826" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">300</text>
+<line x1="1172" y1="835" x2="1460" y2="835" stroke="#57dadd" stroke-width="1.5" />
+<line x1="1168" y1="840" x2="1176" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<line x1="1456" y1="840" x2="1464" y2="830" stroke="#57dadd" stroke-width="1.5" />
+<text x="1300" y="826" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="16">1200</text>
+<text x="740" y="882" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="18">床头柜与书桌同材连接，采用高低台面。</text>
+<text x="740" y="913" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="17">衣柜沿上方墙展开1300宽；此处显示600深的侧面。</text>
+<text x="720" y="213" fill="#86bb92" font-family="Noto Sans CJK SC,sans-serif" font-size="16">家具高度均为方案暂定；图中横向顺序对应平面右墙。</text>
+<line x1="40" y1="950" x2="1560" y2="950" stroke="#40505b" stroke-width="1.5" />
+<text x="50" y="988" fill="#57dadd" font-family="Noto Sans CJK SC,sans-serif" font-size="21">设计口径与待确认项</text>
+<text x="50" y="1023" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="18">① 暂按单人床设计；2000×1200为床架外包控制尺寸，床垫需另行匹配，不能直接套用成品床尺寸。</text>
+<text x="50" y="1056" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="18">② 桌深500、床头柜300宽×500深；衣柜与桌面转角收口、移门轨道及插座位置须深化。</text>
+<text x="50" y="1089" fill="#dbe5eb" font-family="Noto Sans CJK SC,sans-serif" font-size="18">③ 原图次卧7.75㎡，飘窗另计1.42㎡；窗台高度、窗扇开启、护栏、窗帘及门洞需量房确认。</text>
+<text x="50" y="1120" fill="#ddbd77" font-family="Noto Sans CJK SC,sans-serif" font-size="15">B-01 | 2026.10.26 | ［原］原图估算值，非实测；［拟］方案尺寸。非施工图，各视图比例不同。</text>
+</svg>
